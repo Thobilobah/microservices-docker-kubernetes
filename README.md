@@ -32,3 +32,4 @@ mkdir frontend api-gateway auth-service products-service orders-service
 # Create Kubernetes folder
 mkdir kubernetes-manifests
 ```
+![make directory]()
