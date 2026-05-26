@@ -526,7 +526,7 @@ kubectl port-forward svc/frontend-service 3000:80
 [port-forwarding](https://github.com/Thobilobah/microservices-docker-kubernetes/blob/main/Screenshots%20from%20my%20environment/Screenshot%202026-05-26%20141941.png)
 
 Visit: http://localhost:3000
-[local-host](https://github.com/Thobilobah/microservices-docker-kubernetes/blob/main/Screenshots%20from%20my%20environment/Screenshot%202026-05-26%20133841.png)
+![local-host](https://github.com/Thobilobah/microservices-docker-kubernetes/blob/main/Screenshots%20from%20my%20environment/Screenshot%202026-05-26%20133841.png)
 
 
 
